@@ -59,6 +59,26 @@ I'm a 2nd-year B.Tech student in **Artificial Intelligence and Data Science at V
 
 ---
 
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSanket24&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderSanket24&theme=tokyo-night"/>
+
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: *[www.linkedin.com/in/sanket-botre-568a44320]*  
