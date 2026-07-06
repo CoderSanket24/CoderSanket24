@@ -2,9 +2,9 @@
 
 # Hi there 👋, I'm Sanket Botre!
 
-### 🚀 AI & Backend Engineering | FinTech Focused Developer
+### 🚀 AI & Backend Engineering | Software Developer
 
-*I'm a 3rd-year B.Tech student in **Artificial Intelligence and Machine Learning at VIT Pune**, passionate about building **scalable backend systems** and **AI-driven solutions** for real-world problems—especially in the **FinTech and banking domain**.*
+*I'm a 3rd-year B.Tech student in **Artificial Intelligence and Machine Learning at VIT Pune**, passionate about building **scalable backend systems** and **AI-driven solutions** for real-world problems.*
 
 </div>
 
@@ -14,8 +14,8 @@
 
 * 🔭 **Currently Building:** Wildlife Sanctuary Database Management System.
 * 🌱 **Currently Learning:** Backend development with Spring Boot.
-* 🎯 **Focus Areas:** Backend Engineering, FinTech Systems, and AI-integrated applications.
-* 🤝 **Open to Collaborating On:** FinTech innovations, AI backend systems, and high-impact hackathons.
+* 🎯 **Focus Areas:** Backend Engineering, Scalable Systems, and AI-integrated applications.
+* 🤝 **Open to Collaborating On:** Open-source innovations, AI backend systems, and high-impact hackathons.
 * 💬 **Ask Me About:** Java & backend development, migrating development environments, AI project building, or my project **Agroassist** (Voice-Enabled Multilingual NLP Chatbot for Agriculture).
 
 ---
